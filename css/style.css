@@ -166,8 +166,14 @@ footer {
     .Molly_Img,
     .Mike_Img,
     .Brian_Img {
-    	 height: 160px;
-    	width: 259px;
-
+        height: 160px;
+        width: 259px;
+    }
+    .Closing h2,
+    .Molly_Name h2,
+    .Brian_Name h2,
+    .Mike_Name h2,
+    .Meredith_Name h2 {
+        padding: 2rem 2rem 2rem;
     }
 }
