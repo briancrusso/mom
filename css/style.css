@@ -138,6 +138,9 @@ footer {
 }
 
 @media only screen and (max-width: 750px) {
+	.masthead {
+		 margin: -10px -10px;
+	}
     h1 {
         font-size: 3rem;
     }
