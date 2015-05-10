@@ -145,7 +145,7 @@ footer {
         font-size: 1.5rem;
     }
     li {
-        padding: 2rem 1rem 0rem;
+        padding: 2rem 0rem 0rem;
     }
     .little_circle {
         height: .1rem;
@@ -161,5 +161,13 @@ footer {
     }
     .Closing h2 {
         font-size: 1rem;
+    }
+    .Meredith_Img,
+    .Molly_Img,
+    .Mike_Img,
+    .Brian_Img {
+    	 height: 160px;
+    	width: 259px;
+
     }
 }
